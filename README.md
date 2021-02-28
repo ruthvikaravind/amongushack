@@ -1,1 +1,1 @@
-# amongushack
+# among-us-hack
